@@ -4,7 +4,7 @@ A simple **Full-Stack Task Management** web application where users can **create
 
 🚀 **Live Demo**
 
-- **Frontend (React App):** globaltrendassignment.netlify.app
+- **Frontend (React App):** https://globaltrendassignment.netlify.app
 - **Backend API (Node.js/Express):** https://globaltrendassignment-backend.onrender.com
 
 ## **Features**
